@@ -4,7 +4,7 @@ import Navbar from "./components/NavBar"
 import Accelerate from "./components/Accelerate"
 import Pricing from "./components/Priceing"
 import Testimonials from "./components/testimonials"
-import Fotter from "./components/Fotter"
+import Footer from "./components/Footer"
 function App() {
 
   return (
@@ -16,7 +16,7 @@ function App() {
       <Accelerate />
       <Pricing />
       <Testimonials />
-      <Fotter className="" />
+      <Footer />
       </div>
      </div>
   )

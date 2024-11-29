@@ -1,5 +1,5 @@
 import {resourcesLinks,platformLinks,communityLinks} from '../constants/index'
-export default function Fotter(){
+export default function Footer(){
     return(
         <div className=' border-t w-full border-zinc-500 grid grid-cols-3 grid-rows-1'>
             <div className='flex flex-col gap-5 md:px-10 mt-5 justify-start items-start p-5'>
